@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">โปรแกรคำนวณเมตรเป็นกิโลเมตร</string>
+    <string name="Play">เล่น</string>
+    <string name="stop">หยุด</string>
+    <string name="start">เริ่ม</string>
+    <string name="exist">ออก</string>
+    <string name="edit">กรอกค่า</string>
+    <string name="cal">คำนวณ</string>
+    <string name="result">ผลลัพธ์</string>
+    <string name="KM">กิโลเมตร</string>
+    <string name="wel">ยินดีต้อนรับ</string>
+    <string name="MtoKM">โปรแกรมคำนวณเมตร เป็น กิโลเมตร</string>
+    <string name="name">นางสาวอัจฉรา ตุแก้ว</string>
+    <string name="ID">รหัส 6204101360</string>
+    <string name="cm">เซนติเมตร</string>
+    <string name="m">เมตร</string>
+</resources>

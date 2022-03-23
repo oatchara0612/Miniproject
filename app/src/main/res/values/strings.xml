@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">M. To Kilometre.</string>
+    <string name="Play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="exist">EXIST</string>
+    <string name="edit">Edit Number</string>
+    <string name="cal">calculate</string>
+    <string name="result">Result</string>
+    <string name="KM">kilometre.</string>
+    <string name="wel">Welcome</string>
+    <string name="MtoKM">m. TO kilometre</string>
+    <string name="name">Oatchara Tukaew</string>
+    <string name="ID">ID:6204101360</string>
+    <string name="cm">cm.</string>
+    <string name="m">m.</string>
+</resources>
